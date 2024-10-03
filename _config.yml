@@ -21,11 +21,12 @@ author: Bernard DUPOUY
 
 navbar-links:
   Accueil: ""
-  Services: ""
-  Tarifs:
-    - Réduction impot: "https://www.service-public.fr/F12.xhtml"
-    - documentation : ""
-  À propos: "aboutme"
+  Services: 
+    - Conseil et assistance: "https://www.service-public.fr/F12.xhtml"
+    - Maintenance et dépannage : ""
+    - Formation et perfectionnement : ""
+  Tarifs: ""
+  Contact: "aboutme"
 
 ################
 # --- Logo --- #
