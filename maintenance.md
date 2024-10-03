@@ -2,26 +2,48 @@
 layout: post
 title: Maintenance et Dépannage
 subtitle: Pour un ordinateur toujours en bon état
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [maintenance, dépannage]
-comments: true
-mathjax: true
+#gh-repo: daattali/beautiful-jekyll
+#gh-badge: [star, fork, follow]
+#tags: [maintenance, dépannage]
+comments: false
+mathjax: false
 author: Bernard Dupouy
 ---
 
-## Maintenance et Dépannage – Gardez votre ordinateur en bonne santé
 
-Votre ordinateur est lent ou affiche des messages d’erreur ? Cela peut être dû à des virus ou des fichiers inutiles. Je vous propose une solution simple pour entretenir votre équipement et le garder en parfait état de fonctionnement.
 
-### Services proposés :
-- **Maintenance régulière** : Mises à jour du système, antivirus et logiciels pour des performances optimales. Mise en place d’un programme de maintenance que vous pourrez suivre vous-même avec des outils comme *CCleaner*.
-- **Dépannage** : En cas de panne, je vous aide à diagnostiquer et résoudre les problèmes, suppression des virus, réinstallation du système si nécessaire, et récupération des données importantes.
+![Maintenance et dépannage informatique à Versailles](https://abc-informatia.fr/images/maintenance.jpg)
 
-### Pourquoi faire appel à moi ?
-- **Structure légère et réactive** : J'interviens rapidement à votre domicile pour une assistance personnalisée.
-- **Service de qualité** : Je m’assure que votre matériel est toujours à jour et fonctionne de manière fluide.
+## Maintenance et dépannage
 
----
+De part une utilisation régulière, de fausses manipulations ou des événements inconnus, virus, spyware, le système génère des fichiers et messages d’erreur qui ralentissent considérablement votre ordinateur et perturbent votre navigation sur internet.
 
-For more information, visit: [Maintenance et Dépannage](https://abc-informatia.fr/prestations-informatiques-a-domicile/maintenance-et-depannage.html)
+L'idéal étant de prévenir plutôt que de guérir :
+
+- Les mises à jour régulières du système, de l’antivirus et des différents composants logiciel et matériel sont indispensables à la bonne marche de votre matériel.
+- Afin d’optimiser les performances, votre système requiert une attention particulière de maintenance périodique que je peux mettre en place avec vous et que vous pouvez effectuer simplement par la suite avec des outils simples : CCleaner, ...
+- Si vous manquez de temps, je peux également me charger de ces opérations et vous offrir un service de qualité avec un programme de maintenance personnalisé. Suppression des fichiers temporaires et clefs de registre obsolètes, etc.
+- Trouver en quelques clics les pilotes les plus récents correspondant à votre matériel : [ma-config.com](http://www.ma-config.com)
+
+Je peux définir avec vous les écueils à éviter afin de minimiser les infections virales et les intrusions maintenir ainsi votre matériel dans un parfait état de fonctionnement, une rationalisation normalisée de ses performances.
+
+### J'interviens si votre ordinateur ne démarre plus :
+
+- Analyse des problèmes. Quand cela est possible suppression de virus et spyware.
+- Je peux réinstaller le système le cas échéant et récupérer un certain nombre de données (les programmes et licences sont à votre charge).
+- Je vous conseille sur l’achat de nouveaux périphériques que je peux changer, ajouter et installer : disque dur, barrette mémoire, carte graphique, WiFi (sans fil) ou réseau, Courant Porteur en Ligne par exemple...
+
+### Services à domicile
+
+- Conseil et assistance
+- Maintenance et dépannage
+- Formation et perfectionnement
+
+### Points forts
+
+- Une structure légère, sérieuse et réactive apportant rapidement la solution de vos soucis.
+- Une approche humaine et personnalisée respectant votre confidentialité.
+- Une écoute et la synthèse de vos difficultés, vous menant à retrouver la sérénité.
+
+![Logo agence national des services à la personnes](https://abc-informatia.fr/images/logo.jpg)
+
