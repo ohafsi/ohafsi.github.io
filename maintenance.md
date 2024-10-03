@@ -2,6 +2,7 @@
 layout: post
 title: Maintenance et Dépannage
 subtitle: Pour un ordinateur toujours en bon état
+cover-img: /assets/img/maintenance.jpg
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [maintenance, dépannage]

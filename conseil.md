@@ -2,7 +2,7 @@
 layout: post
 title: Conseil et Assistance
 subtitle: Un accompagnement personnalisé pour vos besoins informatiques
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/conseil.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [conseil, assistance]

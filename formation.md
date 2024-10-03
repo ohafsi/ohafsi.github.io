@@ -2,6 +2,7 @@
 layout: post
 title: Formation et perfectionnement
 subtitle: Pour un ordinateur toujours en bon état
+cover-img: /assets/img/formation.jpg
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [formation, perfectionnement]
