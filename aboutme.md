@@ -2,7 +2,7 @@
 layout: post
 title: À propos
 subtitle: À propos de Bernard Dupouy – ABC Informatia
-cover-img: /assets/img/formation.jpg
+cover-img: /assets/img/bernard.jpg
 ---
 
 Bienvenue chez ABC Informatia, où je vous aide à mieux comprendre et utiliser votre ordinateur, en toute simplicité. Je suis Bernard Dupouy, basé à Versailles, et je me spécialise dans l’accompagnement des personnes qui veulent se familiariser avec l'informatique à leur rythme, dans le confort de leur maison.
