@@ -20,11 +20,12 @@ author: Bernard DUPOUY
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Accueil: ""
+  Services: ""
+  Tarifs:
+    - Réduction impot: "https://www.service-public.fr/F12.xhtml"
+    - documentation : ""
+  À propos: "aboutme"
 
 ################
 # --- Logo --- #
