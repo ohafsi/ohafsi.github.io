@@ -23,8 +23,8 @@ navbar-links:
   Accueil: ""
   Services: 
     - Conseil et assistance: "conseil"
-    - Maintenance et dépannage : "#maintenance"
-    - Formation et perfectionnement : "#formation"
+    - Maintenance et dépannage : "maintenance"
+    - Formation et perfectionnement : "formation"
   Tarifs: ""
   Contact: "aboutme"
 
