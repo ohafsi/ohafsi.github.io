@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: À propos
 subtitle: À propos de Bernard Dupouy – ABC Informatia
 cover-img: /assets/img/bernard.jpg
