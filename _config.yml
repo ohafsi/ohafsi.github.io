@@ -22,9 +22,9 @@ author: Bernard DUPOUY
 navbar-links:
   Accueil: ""
   Services: 
-    - Conseil et assistance: "_posts/conseil.md"
-    - Maintenance et dépannage : "_posts/maintenance.md"
-    - Formation et perfectionnement : "_posts/formation.md"
+    - Conseil et assistance: "/_posts/conseil.md"
+    - Maintenance et dépannage : "/_posts/maintenance.md"
+    - Formation et perfectionnement : "/_posts/formation.md"
   Tarifs: ""
   Contact: "aboutme"
 
