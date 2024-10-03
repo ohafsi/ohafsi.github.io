@@ -9,13 +9,25 @@ tags: [conseil, assistance]
 author: Bernard Dupouy
 ---
 
-Vous avez envie de vous lancer dans l'informatique, mais vous ne savez pas par où commencer ? Vous aimeriez pouvoir échanger avec vos enfants ou petits-enfants par e-mail ou visioconférence, mais cela vous semble compliqué ? Ne vous inquiétez pas, je suis là pour vous accompagner à chaque étape.
+## Conseil et Assistance – Pour les Débutants et Utilisateurs Plus Avertis
 
-Que ce soit pour vous conseiller dans l'achat d'un nouvel ordinateur, sécuriser votre équipement, ou configurer votre connexion internet, je vous propose une aide simple et claire. Je prends le temps de vous expliquer les choses de manière compréhensible, sans jargon technique.
+### Pour les Débutants
+Vous hésitez à acheter un nouvel équipement ? Vous souhaitez vous connecter à Internet pour rester en contact avec vos proches ? Je suis là pour vous aider.
 
-Voici ce que je peux faire pour vous :
+- **Solutions de sécurité** : Je vous propose des conseils adaptés pour sécuriser votre utilisation de l'informatique.
+- **Installation de votre connexion Internet** : Que ce soit une Livebox, Freebox ou autre, je m'occupe de tout pour une utilisation simple et efficace.
 
-Conseil en sécurité informatique : Je m'assure que votre ordinateur est protégé contre les virus et autres menaces.
-Installation et configuration de votre connexion Internet : Que vous ayez une Livebox, Freebox ou autre, je m'occupe de tout mettre en place (Internet, TV, téléphone) et de vous montrer comment utiliser ces services.
-Je m’adapte à votre rythme, avec patience et bienveillance, pour que vous puissiez profiter pleinement de votre matériel informatique sans stress.
+### Pour les Utilisateurs Plus Avertis
+Votre PC devient lent ? Je vous conseille sur les mises à jour et l'achat de périphériques adaptés.
+
+- **Réinstallation et configuration** : Installation des logiciels nécessaires, réinstallation du système, et choix des équipements pour un fonctionnement optimal.
+- **Sauvegardes régulières** : Je vous aide à mettre en place un système de sauvegarde de vos fichiers importants pour éviter toute perte de données.
+
+### Pourquoi Faire Appel à Moi ?
+- **Approche personnalisée** : Une écoute attentive pour répondre à vos besoins spécifiques.
+- **Réactivité** : J'interviens rapidement pour résoudre vos problèmes.
+
+---
+
+Pour plus d'informations, visitez : [Conseil et Assistance](https://abc-informatia.fr/prestations-informatiques-a-domicile/conseil-et-assistance.html)
 
