@@ -8,11 +8,8 @@ cover-img: /assets/img/formation.jpg
 #tags: [formation, perfectionnement]
 comments: false
 mathjax: false
-author: Bernard Dupouy
+#author: Bernard Dupouy
 ---
-
-
-![Formation et perfectionnement informatique à Versailles](https://abc-informatia.fr/images/formation.jpg)
 
 ## Formation et perfectionnement
 

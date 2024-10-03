@@ -8,12 +8,9 @@ cover-img: /assets/img/maintenance.jpg
 #tags: [maintenance, dépannage]
 comments: false
 mathjax: false
-author: Bernard Dupouy
+#author: Bernard Dupouy
 ---
 
-
-
-![Maintenance et dépannage informatique à Versailles](https://abc-informatia.fr/images/maintenance.jpg)
 
 ## Maintenance et dépannage
 

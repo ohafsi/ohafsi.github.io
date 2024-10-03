@@ -4,9 +4,9 @@ title: Conseil et Assistance
 subtitle: Un accompagnement personnalisé pour vos besoins informatiques
 cover-img: /assets/img/conseil.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [conseil, assistance]
-author: Bernard Dupouy
+#share-img: /assets/img/path.jpg
+#tags: [conseil, assistance]
+#author: Bernard Dupouy
 ---
 
 ## Conseil et Assistance – Pour les Débutants et Utilisateurs Plus Avertis
