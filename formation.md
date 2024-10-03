@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Formation et perfectionnement
 subtitle: Pour un ordinateur toujours en bon état
 cover-img: /assets/img/formation.jpg
@@ -11,7 +11,6 @@ mathjax: false
 #author: Bernard Dupouy
 ---
 
-## Formation et perfectionnement
 
 Que vous soyez débutant ou aguerri, votre matériel vous procurera gain de temps et des heures de satisfactions pour travailler, vous informer, effectuer des démarches administratives sans vous déplacer et vous divertir…
 

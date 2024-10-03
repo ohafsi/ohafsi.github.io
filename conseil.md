@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Conseil et Assistance
 subtitle: Un accompagnement personnalisé pour vos besoins informatiques
 cover-img: /assets/img/conseil.jpg
@@ -9,7 +9,7 @@ thumbnail-img: /assets/img/thumb.png
 #author: Bernard Dupouy
 ---
 
-## Conseil et Assistance – Pour les Débutants et Utilisateurs Plus Avertis
+
 
 ### Pour les Débutants
 Vous hésitez à acheter un nouvel équipement ? Vous souhaitez vous connecter à Internet pour rester en contact avec vos proches ? Je suis là pour vous aider.
@@ -29,5 +29,4 @@ Votre PC devient lent ? Je vous conseille sur les mises à jour et l'achat de p�
 
 ---
 
-Pour plus d'informations, visitez : [Conseil et Assistance](https://abc-informatia.fr/prestations-informatiques-a-domicile/conseil-et-assistance.html)
 

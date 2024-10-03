@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Maintenance et Dépannage
 subtitle: Pour un ordinateur toujours en bon état
 cover-img: /assets/img/maintenance.jpg
@@ -12,7 +12,6 @@ mathjax: false
 ---
 
 
-## Maintenance et dépannage
 
 De part une utilisation régulière, de fausses manipulations ou des événements inconnus, virus, spyware, le système génère des fichiers et messages d’erreur qui ralentissent considérablement votre ordinateur et perturbent votre navigation sur internet.
 
